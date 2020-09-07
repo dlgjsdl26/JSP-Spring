@@ -1,6 +1,6 @@
 /**
  * 
- */	
+ */
 $.fn.convertForm=function(object){
 
 	var element = this.on("submit", function(event){
